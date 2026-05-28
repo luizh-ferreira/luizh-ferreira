@@ -152,8 +152,6 @@ while (problem.exists()) {
 > Good software is not only code that works.  
 > It is code that scales, adapts and simplifies complexity.
 
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3FA110&height=120&section=footer"/>
