@@ -126,33 +126,6 @@ developer:
 
 ---
 
-## ⚡ Current Engineering Focus
-
-<table>
-  <tr>
-    <td><b>Scalable SaaS Architectures</b></td>
-    <td>████████████████░░</td>
-  </tr>
-  <tr>
-    <td><b>Backend Performance</b></td>
-    <td>█████████████████░</td>
-  </tr>
-  <tr>
-    <td><b>API Integrations</b></td>
-    <td>███████████████░░░</td>
-  </tr>
-  <tr>
-    <td><b>Modern UI/UX</b></td>
-    <td>██████████████░░░░</td>
-  </tr>
-  <tr>
-    <td><b>Process Automation</b></td>
-    <td>██████████████████</td>
-  </tr>
-</table>
-
----
-
 ## 🧩 My Way of Thinking
 
 ```javascript
