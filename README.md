@@ -1,7 +1,5 @@
 <div align="center">
 
-# Luiz Henrique Ferreira Oliveira
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3FA110&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;GeneXus+17+Specialist;Backend+%26+Architecture+Enthusiast;Hospital+Systems+Developer;Automation+%26+Performance+Focused" />
 
 </div>
