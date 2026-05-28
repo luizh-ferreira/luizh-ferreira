@@ -147,27 +147,6 @@ while (problem.exists()) {
 
 ---
 
-## 🔥 Engineering Principles
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">🧱<br><b>Clean Architecture</b></td>
-    <td align="center">⚡<br><b>Performance First</b></td>
-    <td align="center">🔒<br><b>Security by Design</b></td>
-  </tr>
-  <tr>
-    <td align="center">♻️<br><b>Reusable Code</b></td>
-    <td align="center">📈<br><b>Scalability</b></td>
-    <td align="center">🎯<br><b>Business Value</b></td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ## 🌌 Philosophy
 
 > Good software is not only code that works.  
