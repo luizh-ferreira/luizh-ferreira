@@ -1,25 +1,25 @@
 <div align="center">
 
-# 👨‍💻 Luiz Henrique Ferreira Oliveira
+# Luiz Henrique Ferreira Oliveira
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3FA110&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;GeneXus+17+Specialist;Building+Modern+SaaS+Platforms;Backend+%26+Architecture+Enthusiast;Hospital+Systems+Developer;Automation+%26+Performance+Focused" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3FA110&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;GeneXus+17+Specialist;Backend+%26+Architecture+Enthusiast;Hospital+Systems+Developer;Automation+%26+Performance+Focused" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 ```yaml
 developer:
   name: Luiz Henrique Ferreira Oliveira
-  located_in: Paraná, Brazil
+  location: Paraná, Brazil
 
   focus:
     - SaaS Architectures
     - Hospital Systems
     - Financial Automation
-    - Banking Integrations
+    - API Integrations
     - Scalable Backends
 
   backend:
@@ -39,11 +39,6 @@ developer:
     - SQL Server
     - MySQL
 
-  devops:
-    - Docker
-    - Docker Compose
-    - GitHub Actions
-
   mindset: >
     Clean architecture, scalable systems,
     automation and modern interfaces.
@@ -51,151 +46,159 @@ developer:
 
 ---
 
-# 🧠 Developer Mindset
+## 🧠 Developer DNA
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>⚙️ Backend & Architecture</h3>
+      <p>
+        APIs, regras de negócio complexas, integrações,
+        performance, segurança e arquitetura escalável.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🎨 Frontend & Experience</h3>
+      <p>
+        Interfaces modernas, organizadas, intuitivas
+        e pensadas para produtividade real do usuário.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🏥 Business Critical Systems</h3>
+      <p>
+        Experiência com sistemas hospitalares, estoque,
+        faturamento, processos internos e fluxos sensíveis.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🤖 Automation Mindset</h3>
+      <p>
+        Transformo processos manuais em rotinas automatizadas,
+        confiáveis e fáceis de manter.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,ts,js,php,postgres,mysql,docker,git,github,vscode,flutter" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/GeneXus_17-1E1E1E?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/WorkWithPlus-3FA110?style=for-the-badge&logoColor=white" />
+
+</div>
+
+---
+
+## 🏗️ What I Build
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🏥 Hospital Systems</h3>
+      <p>Internment, ambulatory workflows, stock control and billing automation.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>💳 Financial Automation</h3>
+      <p>CNAB files, payment routines, conciliation and API integrations.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🌐 SaaS Platforms</h3>
+      <p>Multi-company systems with modern frontend and scalable backend.</p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## ⚡ Current Engineering Focus
+
+<table>
+  <tr>
+    <td><b>Scalable SaaS Architectures</b></td>
+    <td>████████████████░░</td>
+  </tr>
+  <tr>
+    <td><b>Backend Performance</b></td>
+    <td>█████████████████░</td>
+  </tr>
+  <tr>
+    <td><b>API Integrations</b></td>
+    <td>███████████████░░░</td>
+  </tr>
+  <tr>
+    <td><b>Modern UI/UX</b></td>
+    <td>██████████████░░░░</td>
+  </tr>
+  <tr>
+    <td><b>Process Automation</b></td>
+    <td>██████████████████</td>
+  </tr>
+</table>
+
+---
+
+## 🧩 My Way of Thinking
 
 ```javascript
-while(problemExists){
-   analyze();
-   optimize();
-   refactor();
-   automate();
+const developer = {
+  analyze: true,
+  optimize: true,
+  refactor: true,
+  automate: true,
+  repeat: "until the system becomes simple for the user"
+};
+
+while (problem.exists()) {
+  developer.analyze;
+  developer.optimize;
+  developer.refactor;
+  developer.automate;
 }
 ```
 
-```txt
-✔ Complex Business Rules
-✔ Multi-Tenant Architectures
-✔ Financial Integrations
-✔ High Performance Systems
-✔ Modern UI/UX
-✔ Process Automation
-✔ Scalability First
-```
-
 ---
 
-# 🏗️ Featured Projects
-
-## 🏥 Hospital Management Systems
-
-Systems focused on:
-
-- Internment
-- Ambulatory workflows
-- Surgical routines
-- Hospital stock control
-- Multi-lot inventory
-- Billing automation
-
-### Highlights
-
-```txt
-→ Legacy routine refactoring
-→ Performance optimization
-→ Complex stock rules
-→ High reliability workflows
-→ GeneXus 17 customization
-```
-
----
-
-## 💳 Financial Automation Platforms
-
-Platforms and systems focused on:
-
-- CNAB 240 / 400
-- Pix APIs
-- Financial conciliation
-- Payment automation
-- Multi-company SaaS
-- API integrations
-
-### Main Stack
-
-```txt
-Frontend:
-React + Next.js + TailwindCSS
-
-Backend:
-Node.js + NestJS + Prisma
-
-Infrastructure:
-Docker + PostgreSQL + Redis
-```
-
----
-
-# ⚡ Tech Stack
+## 🔥 Engineering Principles
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,ts,js,php,postgres,mysql,mssql,docker,git,github,vscode,flutter" />
+<table>
+  <tr>
+    <td align="center">🧱<br><b>Clean Architecture</b></td>
+    <td align="center">⚡<br><b>Performance First</b></td>
+    <td align="center">🔒<br><b>Security by Design</b></td>
+  </tr>
+  <tr>
+    <td align="center">♻️<br><b>Reusable Code</b></td>
+    <td align="center">📈<br><b>Scalability</b></td>
+    <td align="center">🎯<br><b>Business Value</b></td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+## 🌌 Philosophy
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizh-ferreira&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizh-ferreira&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</div>
-
----
-
-# 🔥 Current Focus
-
-```txt
-[██████████████░░░░] Scalable SaaS Architectures
-[████████████████░░] Backend Performance
-[█████████████░░░░░] Financial Integrations
-[███████████████░░░] Modern Interfaces
-[██████████████████] Process Automation
-```
-
----
-
-# 🧩 Fun Facts
-
-🟢 Passionate about solving complex legacy problems  
-🟢 Obsessed with clean architecture and scalability  
-🟢 Loves transforming manual processes into automation  
-🟢 Enjoys building elegant and modern interfaces  
-🟢 Always thinking about performance and maintainability  
-🟢 Strong experience with business-critical systems  
-
----
-
-# 🎯 Goals
-
-- Become a specialist in advanced integrations
-- Build highly scalable SaaS products
-- Improve distributed system architecture skills
-- Expand mobile development knowledge with Flutter
-- Create impactful software products
-
----
-
-# ☕ Currently Probably...
-
-```txt
-✔ Refactoring complex procedures
-✔ Optimizing SQL queries
-✔ Debugging Docker builds
-✔ Designing scalable APIs
-✔ Improving frontend experiences
-```
-
----
-
-# 🌌 Philosophy
-
-> “Good software is not only code that works.
-> It is code that scales, adapts and simplifies complexity.”
+> Good software is not only code that works.  
+> It is code that scales, adapts and simplifies complexity.
 
 ---
 
